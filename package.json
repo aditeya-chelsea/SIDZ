@@ -1,0 +1,30 @@
+{
+  "name": "sidz",
+  "version": "1.0.0",
+  "description": "SIDZ - Local-First Digital Footprint Intelligence Platform",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aditeya-chelsea/sidz.git"
+  },
+  "author": {
+    "name": "Aditeya",
+    "url": "https://github.com/aditeya-chelsea"
+  },
+  "scripts": {
+    "install:all": "./install.sh",
+    "start": "./start.sh",
+    "frontend:dev": "cd frontend && node ./node_modules/vite/bin/vite.js",
+    "frontend:build": "cd frontend && node ./node_modules/vite/bin/vite.js build",
+    "backend:start": "python3 backend/run.py"
+  },
+  "keywords": [
+    "osint",
+    "cybersecurity",
+    "digital-footprint",
+    "privacy",
+    "reconnaissance",
+    "security-tools",
+    "threat-intelligence"
+  ]
+}
