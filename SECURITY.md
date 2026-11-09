@@ -34,3 +34,4 @@ Please include:
 - Suggestions on remediation if available.
 
 We will acknowledge receipt within 48 hours and work with you to release a coordinated patch.
+

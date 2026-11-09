@@ -63,3 +63,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Full structured JSON dossier exports.
 - **One-Command Setup**:
   - Automated installer (`install.sh`) and unified launcher (`start.sh`).
+

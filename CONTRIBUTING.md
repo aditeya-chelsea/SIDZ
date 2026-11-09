@@ -75,3 +75,4 @@ SIDZ is an educational and defensive OSINT platform. All contributions must adhe
    ```
 3. Commit your changes and push to your fork.
 4. Open a Pull Request against the `main` branch with a clear description of the problem solved and testing steps performed.
+
